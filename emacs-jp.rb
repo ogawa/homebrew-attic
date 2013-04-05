@@ -1,6 +1,6 @@
 require 'formula'
 
-class Emacs < Formula
+class EmacsJp < Formula
   homepage 'http://www.gnu.org/software/emacs/'
   url 'http://ftpmirror.gnu.org/emacs/emacs-24.3.tar.gz'
   mirror 'http://ftp.gnu.org/pub/gnu/emacs/emacs-24.3.tar.gz'
